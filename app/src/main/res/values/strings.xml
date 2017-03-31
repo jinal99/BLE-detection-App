@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kuch bhi</string>
+    <string name="ble_not_supported">Your Phone Does Not Support This App.</string>
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+    <string name="scan1">Scan</string>
+    <string name="scanText">Click The Button To Start Scanning</string>
+    <string name="textview">TextView</string>
+    <string name="dummy">TextView</string>
+</resources>
